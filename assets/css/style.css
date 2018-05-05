@@ -7,6 +7,7 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	color: #777;
+	min-height: calc(100vh - 100px);
 }
 
 /* navbar */
@@ -59,7 +60,7 @@ section {
 	padding: 20px;
 	background: #fff;
 	border: 1px solid #ddd;
-	margin-bottom: 100px;
+	margin-bottom: 40px;
 }
 header {
 	color: #4aaaa5;
