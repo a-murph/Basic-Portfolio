@@ -132,7 +132,7 @@ input {
 	text-align: center;
 	line-height: 40px;
 }
-.project-label a {
+#portfolio a {
 	text-decoration: none;
 	color: #fff;
 	font-size: 18px;
