@@ -1,6 +1,6 @@
 /* body and container */
 body {
-	background: #eee;
+	background-image: url(../images/funky-lines.png);
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif
 }
 .container {
