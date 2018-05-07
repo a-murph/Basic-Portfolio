@@ -45,6 +45,10 @@ body {
 	margin-right: 20px;
 	margin-left: 20px;
 }
+#topbar-links a:hover {
+	color: #4aaaa5;
+	text-decoration: underline;
+}
 #topbar-links a.disabled {
 	pointer-events: none;
 	cursor: default;
@@ -102,6 +106,9 @@ input {
 	text-align: center;
 	line-height: 40px;
 }
+.submitrow a:hover {
+	font-weight: bold;
+}
 .submit-button {
 	color: #fff;
 	text-decoration: none;
@@ -136,6 +143,9 @@ input {
 	text-decoration: none;
 	color: #fff;
 	font-size: 18px;
+}
+#portfolio a:hover {
+	color: #444;
 }
 #media-label {
 	top: 298px;
