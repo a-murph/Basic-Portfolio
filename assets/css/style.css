@@ -85,6 +85,9 @@ p {
 	margin-top: 25px;
 	line-height: 1.4em;
 }
+.separator {
+	text-align: center;
+}
 
 /* contact page */
 .formrow, .submitrow {
